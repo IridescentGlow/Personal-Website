@@ -14,7 +14,6 @@ import {
 function Sharing() {
 
   //copy link to clipboard
-
   const currentUrl = window.location.href;
 
   const copyToClipboard = () => {
